@@ -1,7 +1,0 @@
-interface:
-  display_name: "Coworker Chat"
-  short_description: "Natural, concise coworker-style conversation"
-  default_prompt: "Use $coworker-chat to talk this through with me like a thoughtful coworker."
-
-policy:
-  allow_implicit_invocation: false

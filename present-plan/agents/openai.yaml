@@ -1,4 +1,0 @@
-interface:
-  display_name: "Present Plan"
-  short_description: "Turn complex plans into visual briefings"
-  default_prompt: "Use $present-plan to turn this plan into a fast, layered visual briefing."
