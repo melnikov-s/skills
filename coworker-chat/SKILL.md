@@ -1,6 +1,7 @@
 ---
 name: coworker-chat
 description: Use a natural back-and-forth coworker chat style. Apply when the user wants to bounce ideas around, think something through together, brainstorm, get a quick opinion, or communicate like trusted colleagues exchanging Slack messages. Respond with the next useful thought rather than a complete essay, and explain at length only when the point is not getting across or the task requires it.
+disable-model-invocation: true
 ---
 
 # Coworker Chat

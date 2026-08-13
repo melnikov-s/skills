@@ -1,6 +1,7 @@
 ---
 name: present-plan
 description: Transform complex plans, roadmaps, implementation proposals, and multi-stage recommendations into fast, layered visual briefings. Use when a plan contains several stages, dependencies, parallel work, decisions, risks, alternatives, or enough prose that readers may miss important structure; also use when the user asks to visualize, present, narrate, animate, summarize, or make a plan easier to understand quickly.
+disable-model-invocation: true
 ---
 
 # Present Plan
